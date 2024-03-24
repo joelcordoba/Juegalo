@@ -1,8 +1,8 @@
 {
   "id": "/",
-  "name": "My First App",
-  "short_name": "Web Developer",
-  "description": "Hola soy Urian - Viera ingeniero de Sistemas, me apasiona un mundo el desarrollo de aplicaciones web y la programaci\u00f3n",
+  "name": "Juegalo",
+  "short_name": "Juegalo juegos gratis",
+  "description": "Juegalo ofrece la mejor selección de juegos online gratis y la experiencia más divertida para jugar solo o con amigos.",
   "theme_color": "#abd1f2",
   "background_color": "#2196f3",
   "display": "standalone",
