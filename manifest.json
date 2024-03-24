@@ -9,6 +9,7 @@
   "scope": "/",
   "start_url": "https://www.juegalo.com.co",
   "lang": "es-CO",
+  "id": "/"
   "icons": [
     {
       "src": "./pwa/images/icons/icon-72x72.png",
