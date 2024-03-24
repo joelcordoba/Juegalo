@@ -6,7 +6,7 @@
   "background_color": "#2196f3",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "./",
+  "scope": "/",
   "start_url": "https://www.juegalo.com.co",
   "lang": "es-CO",
   "icons": [
@@ -54,6 +54,18 @@
       "src": "./pwa/images/icons/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "URL_DE_LA_CAPTURA_DE_PANTALLA_DE_ESCRITORIO",
+      "type": "image/png",
+      "sizes": "1920x1080"
+    },
+    {
+      "src": "URL_DE_LA_CAPTURA_DE_PANTALLA_DE_MÓVIL",
+      "type": "image/png",
+      "sizes": "360x640"
     }
   ]
 }
