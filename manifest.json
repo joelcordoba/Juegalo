@@ -1,0 +1,36 @@
+{
+  "name": "Juegalo",
+  "short_name": "juegalo juegos gratis",
+  "description": "Juegalo ofrece la mejor selección de juegos online gratis y la experiencia más divertida para jugar solo o con amigos. Accede instantáneamente a todos nuestros juegos sin necesidad de descargas, inicio de sesión o ventanas emergentes molestas.",
+  "start_url": "https://www.juegalo.com.co/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "icons": [
+    {
+      "src": "icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    }
+  ]
+}
