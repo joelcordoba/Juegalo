@@ -55,18 +55,6 @@
       "src": "https://lh3.googleusercontent.com/-WUo9faOdmXQ/ZgCtQlefliI/AAAAAAAAXOE/yPmn9BTJJXwGmmkdBaeVpvBUlme1DU6GgCNcBGAsYHQ/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "URL_DE_LA_CAPTURA_DE_PANTALLA_DE_ESCRITORIO",
-      "type": "image/png",
-      "sizes": "1920x1080"
-    },
-    {
-      "src": "URL_DE_LA_CAPTURA_DE_PANTALLA_DE_MÓVIL",
-      "type": "image/png",
-      "sizes": "360x640"
-    }
+   }
   ]
 }
