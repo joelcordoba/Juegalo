@@ -4,7 +4,7 @@
   "short_name": "Juegalo",
   "description": "Juegalo ofrece la mejor selección de juegos online gratis y la experiencia más divertida para jugar solo o con amigos.",
   "theme_color": "#abd1f2",
-  "background_color": "#2196f3",
+  "background_color": "#fffffff",
   "display": "standalone",
   "orientation": "portrait",
   "start_url": "https://www.juegalo.com.co",
