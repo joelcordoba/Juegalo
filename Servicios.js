@@ -1,3 +1,4 @@
+<script>
 //<![CDATA[
 /*
 * Juegos favoritos
@@ -245,3 +246,4 @@ new MyBookmark(this, userOptions);
 }
 })(jQuery);
 //]]>
+</script> 
