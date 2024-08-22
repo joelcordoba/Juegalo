@@ -1,5 +1,5 @@
 if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('./Service_Worker.js')
+  navigator.serviceWorker.register('https://raw.githubusercontent.com/joelcordoba/Juegalo/main/Service_Worker.js')
     .then(reg => console.log('Registro de SW exitoso', reg))
     .catch(err => console.warn('Error al tratar de registrar el sw', err))
 }
