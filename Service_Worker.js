@@ -9,7 +9,7 @@ const CACHE_NAME = 'Juegalo-v1',
     '/js/bootstrap.bundle.min.js',
     '/js/jquery-3.6.0.js',
 
-    'https://raw.githubusercontent.com/joelcordoba/Juegalo/main/regist_serviceWorker.js',
+    '/Service_Worker.js',
     'https://lh3.googleusercontent.com/-WUo9faOdmXQ/ZgCtQlefliI/AAAAAAAAXOE/yPmn9BTJJXwGmmkdBaeVpvBUlme1DU6GgCNcBGAsYHQ/icon-512x512.png',
     'https://lh3.googleusercontent.com/-UGSiegmn1hI/ZgCtRML_jvI/AAAAAAAAXOI/18WCsBXu26AtXWqUzNcAIOJ5fTsuQ0pxwCNcBGAsYHQ/icon-72x72.png'
   ];
