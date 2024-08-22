@@ -1,21 +1,16 @@
 // Asignar un nombre y versión al cache
-const CACHE_NAME = 'JuegaloCache-v1',
+const CACHE_NAME = 'Juegalo-v1',
   urlsToCache = [
-    './',
-    './index.html',
-    'https://www.juegalo.com.co/css/bootstrap.min.css',
-    'https://www.juegalo.com.co/css/home.css',
-    'https://www.juegalo.com.co/js/bootstrap.bundle.min.js',
-    'https://www.juegalo.com.co/js/jquery-3.6.0.js',
-    'https://www.juegalo.com.co/regist_serviceWorker.js',
+    '/',
+    '/index.html',
+    '/css/bootstrap.min.css',
+    '/css/home.css',
+
+    '/js/bootstrap.bundle.min.js',
+    '/js/jquery-3.6.0.js',
+
+    'https://github.com/joelcordoba/Juegalo/blob/main/regist_serviceWorker.js',
     'https://lh3.googleusercontent.com/-WUo9faOdmXQ/ZgCtQlefliI/AAAAAAAAXOE/yPmn9BTJJXwGmmkdBaeVpvBUlme1DU6GgCNcBGAsYHQ/icon-512x512.png',
-    'https://lh3.googleusercontent.com/-kSQOmmu_MpE/ZgCtQD9o0CI/AAAAAAAAXOA/zSGpuJ5k-CcCaPjPu_r5a0ukd2raACtbQCNcBGAsYHQ/icon-384x384.png',
-    'https://lh3.googleusercontent.com/-C5t9FcqPQts/ZgCtPqcjYzI/AAAAAAAAXN8/8B0Qtqe9L-AGThI_wNbuGsypdgnvfk2BACNcBGAsYHQ/icon-256x256.png',
-    'https://lh3.googleusercontent.com/-q8YhAwrNdaM/ZgCtOwxLkaI/AAAAAAAAXN4/5wVfkDugBso_C9qYVmnjNJElswCABFx3ACNcBGAsYHQ/icon-192x192.png',
-    'https://lh3.googleusercontent.com/-NkxnZxIWFvM/ZgCtOuuARrI/AAAAAAAAXNw/wf2So2Y3tuAiL_o2R1dXBGtAyLW6rEL1QCNcBGAsYHQ/icon-152x152.png',
-    'https://lh3.googleusercontent.com/-x9Cy7M8dXdw/ZgCtOorzqYI/AAAAAAAAXN0/wPNLPdX-H9cDbwti-YJYtqbjaEahePxgACNcBGAsYHQ/icon-144x144.png',
-    'https://lh3.googleusercontent.com/-xiYAb6t4bRs/ZgCtOnshEBI/AAAAAAAAXNs/8keUTGq1CwY-tY_QED9L1O4Vu2TO76naQCNcBGAsYHQ/icon-128x128.png',
-    'https://lh3.googleusercontent.com/-VwcD-C0dHRw/ZgCtRsJ8MzI/AAAAAAAAXOM/nn_P00yyQO8uvQAnvYa3zvSJ6fUBjdNKACNcBGAsYHQ/icon-96x96.png',
     'https://lh3.googleusercontent.com/-UGSiegmn1hI/ZgCtRML_jvI/AAAAAAAAXOI/18WCsBXu26AtXWqUzNcAIOJ5fTsuQ0pxwCNcBGAsYHQ/icon-72x72.png'
   ];
 
